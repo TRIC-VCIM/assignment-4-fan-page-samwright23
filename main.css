@@ -1,0 +1,19 @@
+.body{
+  background-color:cadetblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+  display: flex;
+  display: inline;
+  
+}
+.heading{
+  background-color: teal;
+  color: white; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.img2{
+
+}
